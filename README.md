@@ -1,3 +1,7 @@
+# Description
+
+This project is a chess game. The idea was to practise OOP, TypeScript and React. In the app you can see realized timer for both players, statistics of lost figures and possible steps of the player. You can check this out by following this link https://litvinovnikita.github.io/chess-game/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
