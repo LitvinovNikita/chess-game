@@ -115,6 +115,17 @@ export class Cell{
             this.figure = null;
         }
     }
+    
+    /**
+    * @info
+    * Getting all cells, which are under attack of other figures of other color
+    * 
+    */
+    whichCellsIsUnderAttack(target: Cell): any[] {
+        
+        console.log(this.board.cells.length);
+        return [];
+    }
 }
 
 
